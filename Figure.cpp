@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 int main() {
+	// Просто программа выводящая прямоугольник
 	setlocale(LC_ALL, "RUS");
 	int height, width;
 	cout << "Введите высоту: ";
